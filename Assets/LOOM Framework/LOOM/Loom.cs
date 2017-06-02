@@ -54,7 +54,7 @@ public static class Loom
 {
 
 
-	// -----test win 10
+	// -----test win 10.。。。。。。。   速度
 
 
     //--------------------------------------- 2 START SINGLE THREAD OVERLOADS --------------------------------------
