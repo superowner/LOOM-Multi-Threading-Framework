@@ -7,6 +7,7 @@ using System.Collections;
 
 public class SimpleThreadingExample : MonoBehaviour
 {
+	// TEST>>>>>>>>>>>>>>>>>>>>>>>>>>
 
     public int maxThreads = 2;
     public int TestWorkerObjects = 40;
